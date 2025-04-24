@@ -26,7 +26,7 @@ node index.js
 Use this to test protected routes:
 
 ```
-email: ivan@example.com
+email: ivan@mail.com
 password: Testing9!
 ```
 
